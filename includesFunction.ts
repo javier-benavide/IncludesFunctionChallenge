@@ -23,7 +23,7 @@ Testing:
 
 You must know that when you run the testing (yarn test), the first 3 test
 shows the input and the expected result. The other test have hidden values
-that you will never know until the end of the interview.
+that you will never know until the end of the challenge.
 */
 
 /**
