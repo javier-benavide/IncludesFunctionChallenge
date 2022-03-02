@@ -1,6 +1,6 @@
 # HighestPalindromeExercise
 
-Hi! Welcome to the real-time exercise of Neat's interview. 
+Hi! Welcome to the real-time exercise of Neat's mini challenge 04-03-2022
 
 **Please read all this file first**
 
@@ -21,11 +21,13 @@ The first thing is to configure your environment. To do this you need to follow 
 
 ## Exercise
 
-For the real-time exercise you need to complete the function **highestValuePalindrome** inside the file **highestValuePalindrome.ts**
+For the real-time exercise you need to complete the function **includesFunction** inside the file **includesFunction.ts**
 
-Also in that file you will find all the explanation needed for the exercise.
+Also you need to complete the function **sortFunction** inside the file **sortFunction.ts**
 
-**You can NOT look at the file "highestValuePalindrome.test.ts" in the entire interview time**
+Finally, in each file you will find all the explanation needed for the exercise.
 
-When you are done with the function you must run `yarn test` and verify that all test are OK.
+**You can NOT look at the file "includesFunction.test.ts" in the entire interview time**
+
+When you are done with the function you must run `yarn test fileName.spec.ts` and verify that all test are OK for each exercise.
 
