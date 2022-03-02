@@ -1,4 +1,4 @@
-# HighestPalindromeExercise
+# Mini Neat Challenge
 
 Hi! Welcome to the real-time exercise of Neat's mini challenge 04-03-2022
 
@@ -27,7 +27,7 @@ Also you need to complete the function **sortFunction** inside the file **sortFu
 
 Finally, in each file you will find all the explanation needed for the exercise.
 
-**You can NOT look at the file "includesFunction.test.ts" in the entire interview time**
+**You can NOT look at any file "*.test.ts" in the entire challenge time**
 
 When you are done with the function you must run `yarn test fileName.spec.ts` and verify that all test are OK for each exercise.
 
