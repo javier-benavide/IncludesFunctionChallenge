@@ -13,7 +13,7 @@ The first thing is to configure your environment. To do this you need to follow 
 
 2. Install yarn with `npm install --global yarn` 
 
-3. Clone the git repository with `git clone https://github.com/javier-benavide/HighestPalindromeExercise.git`
+3. Clone the git repository with `git clone https://github.com/javier-benavide/IncludesFunctionChallenge.git`
 
 4. Go to the cloned directory
 
