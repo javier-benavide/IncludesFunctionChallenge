@@ -10,7 +10,7 @@ test('Test 2: [1,2,3] -> [1,2,3]', () => {
     expect(sortFunction(initialArray)).toBe(initialArray.sort());
 })
 
-test('Test 2: [-1,2.5,0] -> [-1,0,2.5]', () => {
+test('Test 3: [-1,2.5,0] -> [-1,0,2.5]', () => {
     const initialArray = [-1,2.5,0];
     expect(sortFunction(initialArray)).toBe(initialArray.sort());
 })
